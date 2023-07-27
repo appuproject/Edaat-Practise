@@ -1,7 +1,7 @@
 
 /*  SCRIPT NAME - BillerLogin 
  * CREATED DATE - 
- * AUTHOR       - KATHIR*/
+ * AUTHOR       - KALPANA*/
 
 package com.azmqalabs.edaattestautomation.testscripts.biller;
 
